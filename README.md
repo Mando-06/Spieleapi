@@ -4,11 +4,11 @@
 
 ✍️ Ihr Gruppenname und Ihre Nachnamen
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| Datum | Version | Zusammenfassung                                                                                                                             |
+| ----- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in _einem_ Satz, was Sie erreicht haben. |
+|       | ...     |                                                                                                                                             |
+|       | 1.0.0   |                                                                                                                                             |
 
 ## 1 Informieren
 
@@ -18,18 +18,43 @@
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      |  |
-| ...  |                 |      |                                    |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                           |
+| ---- | --------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Muss            | Funktional    | Als ein User möchte ich Schere, Stein Papier spielen können.                                                                           |
+| 2    | Muss            | Funktional    | Als ein User möchte ich Roulette spielen können.                                                                                       |
+| 3    | Muss            | Funktional    | Als ein User möchte ich zwischen Schere, Stein und Papier wählen können, damit ich das Spiel spielen.                                  |
+| 4    | Muss            | Funktional    | Als ein User möchte ich, dass ich auf eine bestimmte Zahl, oder gerade oder ungerade Zahlen setzen.                                    |
+| 5    | Muss            | Funktional    | Als ein User möchte ich, dass ich auf Zahlen von 0 - 35 wetten kann.                                                                   |
+| 6    | Muss            | Funktional    | ALs ein User möchte ich, dass das Roulette über ein Konto verfügt, in welchem mir die Chips angezeigt werden, die ich besitze.         |
+| 7    | Muss            | Funktional    | Als ein User möchte ich, dass es eine Anleitung gibt, damit ich sehen kann, wie ich Scheren, Stein, Papier oder Roulette spielen kann. |
+| 8    | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                          |
+| 9    | Muss            | Qualität      | Als ein User möchte ich, dass das Frontend benutzerfreundlich gestaltet ist.                                                           |
+| 10   | Muss            | Randbedingung | Als ein User möchte ich, dass die Spiele über eine API laufen.                                                                         |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
 | ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -45,7 +70,7 @@
 | 1.A  |       |           |              |               |
 | ...  |       |           |              |               |
 
-Total: 
+Total:
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
