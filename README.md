@@ -22,7 +22,7 @@
 | ---- | --------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Muss            | Funktional    | Als ein User möchte ich Schere, Stein Papier spielen können.                                                                           |
 | 2    | Muss            | Funktional    | Als ein User möchte ich Roulette spielen können.                                                                                       |
-| 3    | Muss            | Funktional    | Als ein User möchte ich zwischen Schere, Stein und Papier wählen können, damit ich das Spiel spielen.                                  |
+| 3    | Muss            | Funktional    | Als ein User möchte ich zwischen Schere, Stein und Papier wählen können, damit ich das Spiel spielen kann.                                  |
 | 4    | Muss            | Funktional    | Als ein User möchte ich, dass ich auf eine bestimmte Zahl, oder gerade oder ungerade Zahlen setzen.                                    |
 | 5    | Muss            | Funktional    | Als ein User möchte ich, dass ich auf Zahlen von 0 - 35 wetten kann.                                                                   |
 | 6    | Muss            | Funktional    | ALs ein User möchte ich, dass das Roulette über ein Konto verfügt, in welchem mir die Chips angezeigt werden, die ich besitze.         |
@@ -35,12 +35,16 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Programm ist gestartet  | Schere  | Schere         |
+| 1.2  | Programm ist gestartet             |  Schere       |  Stein                 |
+| 1.3  | Programm ist gestartet             |  Schere       |  Papier                 |
+| 1.4  | Programm ist gestartet             | Stein        | Stein                  |
+| 1.5 | Programm ist gestartet             | Stein        | Schere                 |
+| 1.6  | Programm ist gestartet             | Stein        | Papier                 |
+| 1.7  | Programm ist gestartet             | Papier        |  Papier                 |
+| 1.8  | Programm ist gestartet             | Papier        |  Stein               |
+| 1.9  | Programm ist gestartet             | Papier        |  Schere                 |
+| 2.1  | Programm ist gestartet             |         |                   |
 | ...  |              |         |                   |
 | ...  |              |         |                   |
 | ...  |              |         |                   |
