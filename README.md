@@ -39,7 +39,7 @@
 | 1.2  | Programm ist gestartet             |  Schere       |  Stein                 |
 | 1.3  | Programm ist gestartet             |  Schere       |  Papier                 |
 | 1.4  | Programm ist gestartet             | Stein        | Stein                  |
-| 1.5 | Programm ist gestartet             | Stein        | Schere                 |
+| 1.5  | Programm ist gestartet             | Stein        | Schere                 |
 | 1.6  | Programm ist gestartet             | Stein        | Papier                 |
 | 1.7  | Programm ist gestartet             | Papier        |  Papier                 |
 | 1.8  | Programm ist gestartet             | Papier        |  Stein               |
