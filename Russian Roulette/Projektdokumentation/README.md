@@ -49,11 +49,11 @@
 | 1.8  | Programm ist gestartet       | Papier        |  Stein               |
 | 1.9  | Programm ist gestartet    | Papier        |  Schere                 |
 | 2.1  | Programm ist gestartet    | Russian Roulette anklicken  |            |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
+| 3.1  | Schere, Stein, Papier ausgewählt       | Spiel starten anklicken  |                   |
+| 4.1  | Programm ist gestartet  | Schere,Stein,Papier oder Russian Roulette anklicken  | Spiel startet     |
+| 5.1  | Spiel ausgewählt      | 1 vs 1 anklicken  | Spiel startet       |
+| 6.1  | Spiel ausgewählt      | gegen Bot spielen anklicken   | Spiel startet  |
+| 7.1  | Russian Roulette ausgewählt  | Waffe auswählen | Spiel startet  |
 | ...  |              |         |                   |
 | ...  |              |         |                   |
 | ...  |              |         |                   |
