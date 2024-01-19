@@ -8,7 +8,7 @@
 | ----- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in _einem_ Satz, was Sie erreicht haben. |
 |       | ...     |                                                                                                                                             |
-|       | 1.0.0   |                                                  |
+|       | 1.0.0   |                                                                                                                                             |
 
 ## 1 Informieren
 
@@ -18,49 +18,45 @@
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ           | Beschreibung                  |
-| ---- | --------------- | ------------- | ----------------------------- |
-| 1    | Muss            | Funktional    | Als ein User möchte ich Schere, Stein oder Papier spielen können.                                                                           |
-| 2    | Muss            | Funktional    | Als ein User möchte ich Russian Roulette spielen können. |
-| 3    | Muss            | Funktional    | Als ein User möchte ich zwischen Schere, Stein und Papier wählen können, damit ich das Spiel spielen kann.     |
-| 4    | Muss            | Funktional    |  Als ein User möchte ich, auswählen können, ob ich Schere,Stein,Papier oder Russian Roulette spielen möchte.  |
-| 5    | Muss            | Funktional    | Als ein User möchte ich gegen andere Personen spielen können.        |
-| 6    | Muss            | Funktional    | Als ein User möchte ich gegen einen Bot spielen können.   |
-| 7   | Muss    | Funktional    |    Als ein User möchte ich, zwischen zwei verschiedenen Waffen auswählen können. |
-| 8    | Muss    | Qualität  | Als ein User möchte ich, dass es nur ein Schuss in der Waffe hat, damit nur ein Spieler stirbt. |
-| 9    |  Muss  | Funktional   | Als ein User möchte ich, dass es einen Soundeffekte gibt, wenn die Waffe einen Schuss abgibt im Russian Roulette, damit die Spielerfahrung intensiver wird. |
-| 10 | Muss | Funktional  | Als ein User möchte ich, dass ich Items bekommen kann, damit ich mehr Spielvarianten habe.
-| 11    | Muss            | Funktional    | Als ein User möchte ich, dass es eine Anleitung gibt, damit ich sehen kann, wie ich Scheren, Stein, Papier oder Russian Roulette spielen kann. |
-| 12    | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.  |
-| 13   | Muss            | Qualität      | Als ein User möchte ich, dass das Frontend benutzerfreundlich gestaltet ist.                                  |
-| 14   | Muss            | Randbedingung | Als ein User möchte ich, dass die Spiele über eine API laufen.       |
+| US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                           |
+| ---- | --------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Muss            | Funktional    | Als ein User möchte ich Schere, Stein Papier spielen können.                                                                           |
+| 2    | Muss            | Funktional    | Als ein User möchte ich Roulette spielen können.                                                                                       |
+| 3    | Muss            | Funktional    | Als ein User möchte ich zwischen Schere, Stein und Papier wählen können, damit ich das Spiel spielen kann.                                  |
+| 4    | Muss            | Funktional    | Als ein User möchte ich, dass ich auf eine bestimmte Zahl, oder gerade oder ungerade Zahlen setzen.                                    |
+| 5    | Muss            | Funktional    | Als ein User möchte ich, dass ich auf Zahlen von 0 - 35 wetten kann.                                                                   |
+| 6    | Muss            | Funktional    | ALs ein User möchte ich, dass das Roulette über ein Konto verfügt, in welchem mir die Chips angezeigt werden, die ich besitze.         |
+| 7    | Muss            | Funktional    | Als ein User möchte ich, dass es eine Anleitung gibt, damit ich sehen kann, wie ich Scheren, Stein, Papier oder Roulette spielen kann. |
+| 8    | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                          |
+| 9    | Muss            | Qualität      | Als ein User möchte ich, dass das Frontend benutzerfreundlich gestaltet ist.                                                           |
+| 10   | Muss            | Randbedingung | Als ein User möchte ich, dass die Spiele über eine API laufen.                                                                         |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Programm ist gestartet  | Schere  | Schere         |
-| 1.2  | Programm ist gestartet     |  Schere       |  Stein             |
-| 1.3  | Programm ist gestartet    |  Schere       |  Papier                 |
-| 1.4  | Programm ist gestartet   | Stein        | Stein                  |
-| 1.5  | Programm ist gestartet    | Stein        | Schere                 |
-| 1.6  | Programm ist gestartet    | Stein        | Papier                 |
-| 1.7  | Programm ist gestartet   | Papier        |  Papier                 |
-| 1.8  | Programm ist gestartet       | Papier        |  Stein               |
-| 1.9  | Programm ist gestartet    | Papier        |  Schere                 |
-| 2.1  | Programm ist gestartet    | Russian Roulette anklicken  |            |
-| 3.1  | Schere, Stein, Papier ausgewählt       | Spiel starten anklicken  |                   |
-| 4.1  | Programm ist gestartet  | Schere,Stein,Papier oder Russian Roulette anklicken  | Spiel startet     |
-| 5.1  | Spiel ausgewählt      | 1 vs 1 anklicken  | Spiel startet       |
-| 6.1  | Spiel ausgewählt      | gegen Bot spielen anklicken   | Spiel startet  |
-| 7.1  | Russian Roulette ausgewählt  | Waffe auswählen | Spiel startet  |
-| 8.1  | Russian Roulette ausgewählt  | Pull Trigger|                   |
-| 8.2  | Russian Roulette ausgewählt  | Pull Trigger|                   |
-| 9.1  | Pulled Trigger  | -     | Schuss sound                  |
-| 10.1  |Russian Roulette ausgewählt|Wahl Item         | Item ausgewählt                  |
-| 11.1  |Programm ist gestartet |klick auf Spielanleitung  | Spielanleitung                  |
-| 12.1 | Programm ist gestartet  |Fehleingabe         | Ungültige Eingabe     |
-| 13.1  | Programm ist gestartet | -        | benutzerfreundliches Frontend   |
+| 1.2  | Programm ist gestartet             |  Schere       |  Stein                 |
+| 1.3  | Programm ist gestartet             |  Schere       |  Papier                 |
+| 1.4  | Programm ist gestartet             | Stein        | Stein                  |
+| 1.5  | Programm ist gestartet             | Stein        | Schere                 |
+| 1.6  | Programm ist gestartet             | Stein        | Papier                 |
+| 1.7  | Programm ist gestartet             | Papier        |  Papier                 |
+| 1.8  | Programm ist gestartet             | Papier        |  Stein               |
+| 1.9  | Programm ist gestartet             | Papier        |  Schere                 |
+| 2.1  | Programm ist gestartet             |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
 | ...  |              |         |                   |
 | ...  |              |         |                   |
 | ...  |              |         |                   |
