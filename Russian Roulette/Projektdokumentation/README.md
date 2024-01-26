@@ -2,7 +2,7 @@
 
 # Projekt-Dokumentation
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Hitz, Sacher und Müller
 
 | Datum | Version | Zusammenfassung                                                                                                                             |
 | ----- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@
 
 | US-№ | Verbindlichkeit | Typ           | Beschreibung                  |
 | ---- | --------------- | ------------- | ----------------------------- |
-| 1    | Muss            | Funktional    | Als ein User möchte ich Schere, Stein oder Papier spielen können.                                                                           |
+| 1    | Muss            | Funktional    | Als ein User möchte ich Schere, Stein oder Papier spielen können.                                        |
 | 2    | Muss            | Funktional    | Als ein User möchte ich Russian Roulette spielen können. |
 | 3    | Muss            | Funktional    | Als ein User möchte ich zwischen Schere, Stein und Papier wählen können, damit ich das Spiel spielen kann.     |
 | 4    | Muss            | Funktional    |  Als ein User möchte ich, auswählen können, ob ich Schere,Stein,Papier oder Russian Roulette spielen möchte.  |
@@ -49,7 +49,8 @@
 | 1.8  | Programm ist gestartet       | Papier        |  Stein               |
 | 1.9  | Programm ist gestartet    | Papier        |  Schere                 |
 | 2.1  | Programm ist gestartet    | Russian Roulette anklicken  |            |
-| 3.1  | Schere, Stein, Papier ausgewählt       | Spiel starten anklicken  |                   |
+| 3.1  | Schere, Stein, Papier ausgewählt | Spiel starten
+anklicken  | Spiel startet |
 | 4.1  | Programm ist gestartet  | Schere,Stein,Papier oder Russian Roulette anklicken  | Spiel startet     |
 | 5.1  | Spiel ausgewählt      | 1 vs 1 anklicken  | Spiel startet       |
 | 6.1  | Spiel ausgewählt      | gegen Bot spielen anklicken   | Spiel startet  |
@@ -84,11 +85,13 @@
 | 7.A  | 05.02.2024  | Hitz   | Waffenwahl Russian Roulette  |  2*45' |
 | 8.A  | 05.02.2024  | Sacher | Eine Kugel pro Waffe    | 45'|
 | 9.A  | 05.02.2024  | Hitz   | Schuss Sound     | 45'  |
-| 10.A | 05.02.2024  |        |                  |      |
+| 10.A | 05.02.2024  | Hitz   | Itemwahl       | 2*45     |
 | 11.A | 05.02.2024  | Hitz   | Spielanleitungen | 30'  |
 | 12.A | 05.02.2024  | Müller | Fehleingaben abfangen   | 45'|
 | 13.A | 05.02.2024  | Hitz   | Benutzerfreundliches Frontend | 45'   |
 | 14.A | 05.02.2024  |           |              |               |
+| 15   | 05.02.2024  | Müller | Testen | 30 |
+| 16   | 05.02.2024  | Individuell  | Portfolio |   4*45|
 
 Total:
 
@@ -104,8 +107,22 @@ Wir haben uns bei unserer Spiele Api entschieden, dass man Schere Stein Papier u
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |       | Müller    | 6*45          |                   |
+| 2.A  |       | Sacher    | 8*45          |                   |
+| 3.A  |       | Müller    | 45            |                   |
+| 4.A  |       | Hitz      | 45            |                   |
+| 5.A  |       | Sacher    | 2*45          |                   |
+| 6.A  |       | Sacher    | 2*45          |                   |
+| 7.A  |       | Hitz      | 2*45          |                   |
+| 8.A  |       | Sacher    | 45            |                   |
+| 9.A  |       | Hitz      | 45            |                   |
+| 10.A |       | Hitz      | 2*45          |                   |
+| 11.A |       | Hitz      | 30            |                   |
+| 12.A |       | Müller    | 45            |                   |
+| 13.A |       | Hitz      | 45            |                   |
+| 14.A |       | 
+| 15   |       | Müller    | 30            |                   |
+| 16   |       | Individuell | 4*45        |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
