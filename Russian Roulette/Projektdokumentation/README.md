@@ -24,8 +24,8 @@
 | 2    | Muss            | Funktional    | Als ein User möchte ich Russian Roulette spielen können. |
 | 3    | Muss            | Funktional    | Als ein User möchte ich zwischen Schere, Stein und Papier wählen können, damit ich das Spiel spielen kann.     |
 | 4    | Muss            | Funktional    |  Als ein User möchte ich, auswählen können, ob ich Schere,Stein,Papier oder Russian Roulette spielen möchte.  |
-| 5    | Muss            | Funktional    | Als ein User möchte ich gegen andere Personen spielen können.        |
-| 6    | Muss            | Funktional    | Als ein User möchte ich gegen einen Bot spielen können.   |
+| 5    | Muss            | Funktional    | Als ein User möchte ich im Russian Roulette gegen andere Personen spielen können, damit man es mit Freunden lokal spielen kann.        |
+| 6    | Muss            | Funktional    | Als ein User möchte ich in beiden Spielen gegen einen Bot spielen können, damit man es auch ohne Freunde spielen kann.   |
 | 7   | Muss    | Funktional    |    Als ein User möchte ich, zwischen zwei verschiedenen Waffen auswählen können. |
 | 8    | Muss    | Qualität  | Als ein User möchte ich, dass es nur ein Schuss in der Waffe hat, damit nur ein Spieler stirbt. |
 | 9    |  Muss  | Funktional   | Als ein User möchte ich, dass es einen Soundeffekte gibt, wenn die Waffe einen Schuss abgibt im Russian Roulette, damit die Spielerfahrung intensiver wird. |
@@ -75,8 +75,20 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 05.02.2024  | Müller | Schere Stein Papier   |  6*45'    |
+| 2.A  | 05.02.2024  | Sacher | Russian Roulette      |  8*45'    |
+| 3.A  | 05.02.2024  | Müller | Wahl bei Schere Stein Papier | 45'    |
+| 4.A  | 05.02.2024  | Hitz   | Spielauswahl          |  45'      |
+| 5.A  | 05.02.2024  | Sacher | Multiplayer     | 2*45'              |
+| 6.A  | 05.02.2024  | Sacher | Computer Gegner   | 2*45'     |
+| 7.A  | 05.02.2024  | Hitz   | Waffenwahl Russian Roulette  |  2*45' |
+| 8.A  | 05.02.2024  | Sacher | Eine Kugel pro Waffe    | 45'|
+| 9.A  | 05.02.2024  | Hitz   | Schuss Sound     | 45'  |
+| 10.A | 05.02.2024  |        |                  |      |
+| 11.A | 05.02.2024  | Hitz   | Spielanleitungen | 30'  |
+| 12.A | 05.02.2024  | Müller | Fehleingaben abfangen   | 45'|
+| 13.A | 05.02.2024  | Hitz   | Benutzerfreundliches Frontend | 45'   |
+| 14.A | 05.02.2024  |           |              |               |
 
 Total:
 
@@ -86,7 +98,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns bei unserer Spiele Api entschieden, dass man Schere Stein Papier und Russian Roulette spielen kann.
 
 ## 4 Realisieren
 
