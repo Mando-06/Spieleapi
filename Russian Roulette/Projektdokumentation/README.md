@@ -62,9 +62,6 @@ anklicken  | Spiel startet |
 | 11.1  |Programm ist gestartet |klick auf Spielanleitung  | Spielanleitung                  |
 | 12.1 | Programm ist gestartet  |Fehleingabe         | Ungültige Eingabe     |
 | 13.1  | Programm ist gestartet | -        | benutzerfreundliches Frontend   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -89,7 +86,7 @@ anklicken  | Spiel startet |
 | 11.A | 05.02.2024  | Hitz   | Spielanleitungen | 30'  |
 | 12.A | 05.02.2024  | Müller | Fehleingaben abfangen   | 45'|
 | 13.A | 05.02.2024  | Hitz   | Benutzerfreundliches Frontend | 45'   |
-| 14.A | 05.02.2024  |           |              |               |
+| 14.A | 05.02.2024  | Sacher | API         |  3*45          |
 | 15   | 05.02.2024  | Müller | Testen | 30 |
 | 16   | 05.02.2024  | Individuell  | Portfolio |   4*45|
 
@@ -109,18 +106,18 @@ Wir haben uns bei unserer Spiele Api entschieden, dass man Schere Stein Papier u
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       | Müller    | 6*45          |                   |
 | 2.A  |       | Sacher    | 8*45          |                   |
-| 3.A  |       | Müller    | 45            |                   |
+| 3.A  | 26.01.24  | Müller    | 45            |                   |
 | 4.A  |       | Hitz      | 45            |                   |
 | 5.A  |       | Sacher    | 2*45          |                   |
 | 6.A  |       | Sacher    | 2*45          |                   |
 | 7.A  |       | Hitz      | 2*45          |                   |
-| 8.A  |       | Sacher    | 45            |                   |
+| 8.A  | 26.01.24     | Sacher    | 45            |  15        |
 | 9.A  |       | Hitz      | 45            |                   |
 | 10.A |       | Hitz      | 2*45          |                   |
 | 11.A |       | Hitz      | 30            |                   |
 | 12.A |       | Müller    | 45            |                   |
 | 13.A |       | Hitz      | 45            |                   |
-| 14.A |       | 
+| 14.A |       | Sacher    | 3*45          |
 | 15   |       | Müller    | 30            |                   |
 | 16   |       | Individuell | 4*45        |                   |
 
