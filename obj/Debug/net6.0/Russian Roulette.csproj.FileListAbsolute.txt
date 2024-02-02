@@ -33,3 +33,4 @@ C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\refint\Russian Roulette
 C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.pdb
 C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.genruntimeconfig.cache
 C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\ref\Russian Roulette.dll
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.sourcelink.json
