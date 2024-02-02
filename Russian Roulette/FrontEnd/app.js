@@ -21,3 +21,17 @@ async function pullTrigger() {
     document.getElementById("result").innerText = "Error pulling trigger.";
   }
 }
+
+function showGame(gameId) {
+  // Startseite und alle Spiele verstecken
+  document.getElementById('startPage').style.display = 'none';
+  document.getElementById('russianRoulette').style.display = 'none';
+  document.getElementById('rockPaperScissors').style.display = 'none';
+
+  if (gameId === 'startPage') {
+      document.getElementById('startPage').style.display = 'block';
+  } else {
+      document.getElementById(gameId).style.display = 'block';
+  }
+}
+
