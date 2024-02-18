@@ -1,0 +1,72 @@
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\appsettings.json
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Russian Roulette.exe
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Russian Roulette.deps.json
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Russian Roulette.runtimeconfig.json
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Russian Roulette.dll
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Russian Roulette.pdb
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\Desktop\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.csproj.AssemblyReference.cache
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.AssemblyInfoInputs.cache
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.AssemblyInfo.cs
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.Russian Roulette.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.build.Russian Roulette.props
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Russian Roulette.props
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Russian Roulette.props
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\scopedcss\bundle\Russian Roulette.styles.css
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.csproj.CopyComplete
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.dll
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\refint\Russian Roulette.dll
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.pdb
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.genruntimeconfig.cache
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\ref\Russian Roulette.dll
+C:\Users\robin\Desktop\Russian Roulette\obj\Debug\net6.0\Russian Roulette.sourcelink.json
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\appsettings.json
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Russian Roulette.exe
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Russian Roulette.deps.json
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Russian Roulette.runtimeconfig.json
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Russian Roulette.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Russian Roulette.pdb
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.csproj.AssemblyReference.cache
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.AssemblyInfoInputs.cache
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.AssemblyInfo.cs
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.csproj.CoreCompileInputs.cache
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.sourcelink.json
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.Russian Roulette.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.build.Russian Roulette.props
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Russian Roulette.props
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Russian Roulette.props
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\scopedcss\bundle\Russian Roulette.styles.css
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.csproj.CopyComplete
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\refint\Russian Roulette.dll
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.pdb
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\Russian Roulette.genruntimeconfig.cache
+C:\Users\robin\Source\Repos\Spieleapi\RussianRoulette\Russian Roulette\obj\Debug\net6.0\ref\Russian Roulette.dll
