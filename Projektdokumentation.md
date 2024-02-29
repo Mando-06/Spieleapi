@@ -131,6 +131,6 @@ Ausserdem haben wir uns dazu entschieden, die Items in dem russischen Roulette S
 
 ## 6 Auswerten
 
-Portfolioeintrag Robin Sacher: https://portfolio.bbbaden.ch/view/view.php?t=d14ea1bf74539810c87b
-Portfolioeintrag Julian Hitz:
-Portfolioeintrag Damian Müller:
+- Portfolioeintrag Robin Sacher: https://portfolio.bbbaden.ch/view/view.php?t=d14ea1bf74539810c87b
+- Portfolioeintrag Julian Hitz:
+- Portfolioeintrag Damian Müller:
