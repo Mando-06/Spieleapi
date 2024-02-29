@@ -8,7 +8,7 @@ Hitz, Sacher und Müller |
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In diesem Projekt setzen wir eine SpieleAPI um, mit der man Scheren Stein Papier und russisches Roulette spielen kann.
 
 ### 1.2 User Stories
 
@@ -93,6 +93,7 @@ Total:
 ## 3 Entscheiden
 
 Wir haben uns bei unserer Spiele Api entschieden, dass man Schere Stein Papier und Russian Roulette spielen kann.
+Ausserdem haben wir uns dazu entschieden, die Items in dem russischen Roulette Spiel weg zu lassen.
 
 ## 4 Realisieren
 
@@ -130,4 +131,6 @@ Wir haben uns bei unserer Spiele Api entschieden, dass man Schere Stein Papier u
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Portfolioeintrag Robin Sacher: https://portfolio.bbbaden.ch/view/view.php?t=d14ea1bf74539810c87b
+Portfolioeintrag Julian Hitz:
+Portfolioeintrag Damian Müller:
