@@ -1,0 +1,141 @@
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\appsettings.json
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.exe
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.deps.json
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.runtimeconfig.json
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.pdb
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.csproj.AssemblyReference.cache
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.AssemblyInfoInputs.cache
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.AssemblyInfo.cs
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.sourcelink.json
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.SpieleApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.build.SpieleApi.props
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpieleApi.props
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpieleApi.props
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\scopedcss\bundle\SpieleApi.styles.css
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.csproj.CopyComplete
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\refint\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.pdb
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.genruntimeconfig.cache
+C:\Users\robin\Desktop\Spieleapi\Russian Roulette\obj\Debug\net6.0\ref\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\appsettings.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.exe
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.deps.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.runtimeconfig.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\SpieleApi.pdb
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.csproj.AssemblyReference.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.AssemblyInfoInputs.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.AssemblyInfo.cs
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.SpieleApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.build.SpieleApi.props
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpieleApi.props
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpieleApi.props
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\scopedcss\bundle\SpieleApi.styles.css
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.csproj.CopyComplete
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\refint\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.pdb
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\SpieleApi.genruntimeconfig.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\Russian Roulette\obj\Debug\net6.0\ref\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\appsettings.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\SpieleApi.exe
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\SpieleApi.deps.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\SpieleApi.runtimeconfig.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\SpieleApi.pdb
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.csproj.AssemblyReference.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.AssemblyInfoInputs.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.AssemblyInfo.cs
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\staticwebassets\msbuild.SpieleApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\staticwebassets\msbuild.build.SpieleApi.props
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpieleApi.props
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpieleApi.props
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\scopedcss\bundle\SpieleApi.styles.css
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.csproj.CopyComplete
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\refint\SpieleApi.dll
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.pdb
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\SpieleApi.genruntimeconfig.cache
+C:\Users\robin\Desktop\Spieleapi-Programm\Spieleapi\SpieleApi\obj\Debug\net6.0\ref\SpieleApi.dll
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\appsettings.json
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\SpieleApi.exe
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\SpieleApi.deps.json
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\SpieleApi.runtimeconfig.json
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\SpieleApi.dll
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\SpieleApi.pdb
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\OneDrive\SpieleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.AssemblyInfo.cs
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\staticwebassets\msbuild.SpieleApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\staticwebassets\msbuild.build.SpieleApi.props
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpieleApi.props
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpieleApi.props
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\scopedcss\bundle\SpieleApi.styles.css
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.csproj.CopyComplete
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.dll
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\refint\SpieleApi.dll
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.pdb
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\SpieleApi.genruntimeconfig.cache
+C:\Users\robin\OneDrive\SpieleApi\obj\Debug\net6.0\ref\SpieleApi.dll
