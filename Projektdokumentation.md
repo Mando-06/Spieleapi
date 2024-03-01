@@ -79,8 +79,8 @@ In diesem Projekt setzen wir eine SpieleAPI um, mit der man Scheren Stein Papier
 | 11.A | 05.02.2024 | Müller      | Fehleingaben abfangen         | 45'           |
 | 12.A | 05.02.2024 | Hitz        | Benutzerfreundliches Frontend | 45'           |
 | 13.A | 05.02.2024 | Sacher      | API                           | 3\*45'        |
-| 15.A | 05.02.2024 | Müller      | Testen                        | 30            |
-| 16.A | 05.02.2024 | Individuell | Portfolio                     | 4\*45'        |
+| 14.A | 05.02.2024 | Müller      | Testen                        | 30            |
+| 15.A | 05.02.2024 | Individuell | Portfolio                     | 4\*45'        |
 
 Total:
 
@@ -90,29 +90,29 @@ Total:
 
 ## 3 Entscheiden
 
-Wir haben uns bei unserer Spiele Api entschieden, dass man Schere Stein Papier und Russian Roulette spielen kann.
+Wir haben uns dazu entschieden, den Modus für lokales Zusammenspielen weg zu lassen.
 Ausserdem haben wir uns dazu entschieden, die Items in dem russischen Roulette Spiel weg zu lassen.
 
 ## 4 Realisieren
 
-| AP-№ | Datum    | Zuständig   | geplante Zeit | tatsächliche Zeit |
-| ---- | -------- | ----------- | ------------- | ----------------- |
-| 1.A  |          | Müller      | 6\*45         |                   |
-| 2.A  |          | Sacher      | 8\*45         |                   |
-| 3.A  | 26.01.24 | Müller      | 45            |                   |
-| 4.A  |          | Hitz        | 45            |                   |
-| 5.A  |          | Sacher      | 2\*45         |                   |
-| 6.A  |          | Sacher      | 2\*45         |                   |
-| 7.A  |          | Hitz        | 2\*45         |                   |
-| 8.A  | 26.01.24 | Sacher      | 45            | 15                |
-| 9.A  |          | Hitz        | 45            |                   |
-| 10.A |          | Hitz        | 2\*45         |                   |
-| 11.A |          | Hitz        | 30            |                   |
-| 12.A |          | Müller      | 45            |                   |
-| 13.A |          | Hitz        | 45            |                   |
-| 14.A |          | Sacher      | 3\*45         |                   |
-| 15   |          | Müller      | 30            |                   |
-| 16   |          | Individuell | 4\*45         |                   |
+| AP-№ | Datum             | Zuständig   | geplante Zeit | tatsächliche Zeit |
+| ---- | ----------------- | ----------- | ------------- | ----------------- |
+| 1.A  |                   | Müller      | 6\*45         |                   |
+| 2.A  | 19.01. - 02.02.24 | Sacher      | 8\*45         | 12\*45'           |
+| 3.A  | 26.01.24          | Müller      | 45            |                   |
+| 4.A  |                   | Hitz        | 45            |                   |
+| 5.A  | -                 | Sacher      | 2\*45         | -                 |
+| 6.A  | 26.01.24          | Sacher      | 2\*45         | 30'               |
+| 7.A  |                   | Hitz        | 2\*45         |                   |
+| 8.A  | 26.01.24          | Sacher      | 45            | 15'               |
+| 9.A  |                   | Hitz        | 45            |                   |
+| 10.A |                   | Hitz        | 2\*45         |                   |
+| 11.A |                   | Hitz        | 30            |                   |
+| 12.A |                   | Müller      | 45            |                   |
+| 13.A |                   | Hitz        | 45            |                   |
+| 14.A | 19.01.24          | Sacher      | 3\*45         | 45'               |
+| 15   |                   | Müller      | 30            |                   |
+| 16   |                   | Individuell | 4\*45         |                   |
 
 ## 5 Kontrollieren
 
@@ -131,18 +131,20 @@ Ausserdem haben wir uns dazu entschieden, die Items in dem russischen Roulette S
 | 2.1  | 01.03.2024 | OK ✅    | Sacher |
 | 3.1  | 01.03.2024 | OK ✅    | Sacher |
 | 4.1  | 01.03.2024 | OK ✅    | Sacher |
-| 5.1  | 01.03.2024 | OK ✅    | Sacher |
+| 5.1  | 01.03.2024 | NOK ❌   | Sacher |
 | 6.1  | 01.03.2024 | OK ✅    | Sacher |
-| 7.1  | 01.03.2024 | OK ✅    | Sacher |
+| 7.1  | 01.03.2024 | NOK ❌   | Sacher |
 | 8.1  | 01.03.2024 | OK ✅    | Sacher |
 | 8.2  | 01.03.2024 | OK ✅    | Sacher |
 | 9.1  | 01.03.2024 | OK ✅    | Sacher |
-| 10.1 | 01.03.2024 | OK ✅    | Sacher |
+| 10.1 | 01.03.2024 | NOK ❌   | Sacher |
 | 11.1 | 01.03.2024 | OK ✅    | Sacher |
 | 12.1 | 01.03.2024 | OK ✅    | Sacher |
+
+Die Testfälle, die nicht erfültl wurden, also die Items, der lokale Multiplayer und die Auswahl der verschiedenen Waffen in dem russischen Roulette Spiel, lassen sich sehr gut in der Zukunft als Erweiterungen oder Updates hinzufügen. Trotz diesen fehlgeschlagenen Tests, ist die SpieleApi voll funktionsfähig und funktioniert ohne Fehler.
 
 ## 6 Auswerten
 
 - Portfolioeintrag Robin Sacher: https://portfolio.bbbaden.ch/view/view.php?t=d14ea1bf74539810c87b
-- Portfolioeintrag Julian Hitz:
-- Portfolioeintrag Damian Müller:
+- Portfolioeintrag Julian Hitz: "Link zu Portfoliobeitrag"
+- Portfolioeintrag Damian Müller: "Link zu Portfoliobeitrag"
