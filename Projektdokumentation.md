@@ -97,22 +97,22 @@ Ausserdem haben wir uns dazu entschieden, die Items in dem russischen Roulette S
 
 | AP-№ | Datum             | Zuständig   | geplante Zeit | tatsächliche Zeit |
 | ---- | ----------------- | ----------- | ------------- | ----------------- |
-| 1.A  |                   | Müller      | 6\*45         |                   |
+| 1.A  |  23.02.24                 | Müller      | 6\*45         |                   |
 | 2.A  | 19.01. - 02.02.24 | Sacher      | 8\*45         | 12\*45'           |
 | 3.A  | 26.01.24          | Müller      | 45            |                   |
-| 4.A  |                   | Hitz        | 45            |                   |
+| 4.A  |  23.02.24                 | Hitz        | 45            |                   |
 | 5.A  | -                 | Sacher      | 2\*45         | -                 |
 | 6.A  | 26.01.24          | Sacher      | 2\*45         | 30'               |
-| 7.A  |                   | Hitz        | 2\*45         |                   |
+| 7.A  | 23.2.24                  | Hitz        | 2\*45         |                   |
 | 8.A  | 26.01.24          | Sacher      | 45            | 15'               |
-| 9.A  |                   | Hitz        | 45            |                   |
-| 10.A |                   | Hitz        | 2\*45         |                   |
-| 11.A |                   | Hitz        | 30            |                   |
-| 12.A |                   | Müller      | 45            |                   |
-| 13.A |                   | Hitz        | 45            |                   |
+| 9.A  | 23.2.24                  | Hitz        | 45            |                   |
+| 10.A |  23.2.24                 | Hitz        | 2\*45         |                   |
+| 11.A | 23.2.24                  | Hitz        | 30            |                   |
+| 12.A |   23.2.24                | Müller      | 45            |                   |
+| 13.A |  23.2.24                 | Hitz        | 45            |                   |
 | 14.A | 19.01.24          | Sacher      | 3\*45         | 45'               |
-| 15   |                   | Müller      | 30            |                   |
-| 16   |                   | Individuell | 4\*45         |                   |
+| 15   |  23.2.24                 | Müller      | 30            |                   |
+| 16   |   23.2.24                   | Individuell | 4\*45         |                   |
 
 ## 5 Kontrollieren
 
