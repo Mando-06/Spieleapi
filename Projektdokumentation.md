@@ -112,7 +112,7 @@ Ausserdem haben wir uns dazu entschieden, die Items in dem russischen Roulette S
 | 13.A |  23.2.24                 | Hitz        | 45            |                   |
 | 14.A | 19.01.24          | Sacher      | 3\*45         | 45'               |
 | 15   |  23.2.24                 | Müller      | 30            |                   |
-| 16   |   23.2.24                   | Individuell | 4\*45         |                   |
+| 16   |   1.3.24                   | Individuell | 4\*45         |                   |
 
 ## 5 Kontrollieren
 
