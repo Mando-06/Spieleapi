@@ -2,7 +2,7 @@
 
 # Projekt-Dokumentation
 
-Hitz, Sacher und Müller |
+Hitz, Sacher und Müller
 
 ## 1 Informieren
 
@@ -55,8 +55,6 @@ In diesem Projekt setzen wir eine SpieleAPI um, mit der man Scheren Stein Papier
 | 12.1 | Programm ist gestartet           | Fehleingabe                                         | Ungültige Eingabe                          |
 | 13.1 | Programm ist gestartet           | -                                                   | benutzerfreundliches Frontend              |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 ### 1.4 Diagramme
 
 ![Alt text](<Use Case Diagramm.png>)
@@ -83,10 +81,6 @@ In diesem Projekt setzen wir eine SpieleAPI um, mit der man Scheren Stein Papier
 | 15.A | 05.02.2024 | Individuell | Portfolio                     | 4\*45'        |
 
 Total:
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
