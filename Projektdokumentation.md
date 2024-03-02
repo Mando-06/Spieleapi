@@ -141,7 +141,7 @@ Ausserdem haben wir uns dazu entschieden, die Items in dem russischen Roulette S
 | 11.1 | 01.03.2024 | OK ✅    | Sacher |
 | 12.1 | 01.03.2024 | OK ✅    | Sacher |
 
-Die Testfälle, die nicht erfültl wurden, also die Items, der lokale Multiplayer und die Auswahl der verschiedenen Waffen in dem russischen Roulette Spiel, lassen sich sehr gut in der Zukunft als Erweiterungen oder Updates hinzufügen. Trotz diesen fehlgeschlagenen Tests, ist die SpieleApi voll funktionsfähig und funktioniert ohne Fehler.
+Die Testfälle, die nicht erfüllt wurden, also die Items, der lokale Multiplayer und die Auswahl der verschiedenen Waffen in dem russischen Roulette Spiel, lassen sich sehr gut in der Zukunft als Erweiterungen oder Updates hinzufügen. Trotz diesen fehlgeschlagenen Tests, ist die SpieleApi voll funktionsfähig und funktioniert ohne Fehler.
 
 ## 6 Auswerten
 
