@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spiele-Menü</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="menu">
+            <h1>Spiele-Menü</h1>
+            <button onclick="startRussianRoulette()">Russian Roulette starten</button>
+            <button onclick="startRockPaperScissors()">Schere-Stein-Papier</button>
+        </div>
+
+        <div id="russianRouletteGame" class="hidden">
+            <h2>Russian Roulette</h2>
+            <p id="playerLife">Spieler Leben: 3</p>
+            <p id="botLife">Bot Leben: 3</p>
+            <p id="turn">Der Spieler ist an der Reihe</p>
+            <button id="playButton" onclick="playGame()">Spiel starten</button>
+
+            <p id="gameResult"></p>
+        </div> 
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
