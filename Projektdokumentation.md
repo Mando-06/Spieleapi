@@ -147,4 +147,4 @@ Die Testfälle, die nicht erfüllt wurden, also die Items, der lokale Multiplaye
 
 - Portfolioeintrag Robin Sacher: https://portfolio.bbbaden.ch/view/view.php?t=d14ea1bf74539810c87b
 - Portfolioeintrag Julian Hitz: "Link zu Portfoliobeitrag"
-- Portfolioeintrag Damian Müller: "Link zu Portfoliobeitrag"
+- Portfolioeintrag Damian Müller: https://portfolio.bbbaden.ch/view/view.php?t=921690286c35cfb6bd6b
