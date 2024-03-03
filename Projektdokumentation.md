@@ -77,7 +77,7 @@ In diesem Projekt setzen wir eine SpieleAPI um, mit der man Scheren Stein Papier
 | 11.A | 05.02.2024 | Müller      | Fehleingaben abfangen         | 45'           |
 | 12.A | 05.02.2024 | Hitz        | Benutzerfreundliches Frontend | 45'           |
 | 13.A | 05.02.2024 | Sacher      | API                           | 3\*45'        |
-| 14.A | 05.02.2024 | Müller      | Testen                        | 30            |
+| 14.A | 05.02.2024 | Sacher      | Testen                        | 30            |
 | 15.A | 05.02.2024 | Individuell | Portfolio                     | 4\*45'        |
 
 Total:
@@ -91,22 +91,23 @@ Ausserdem haben wir uns dazu entschieden, die Items in dem russischen Roulette S
 
 | AP-№ | Datum             | Zuständig   | geplante Zeit | tatsächliche Zeit |
 | ---- | ----------------- | ----------- | ------------- | ----------------- |
-| 1.A  |  23.02.24                 | Müller      | 6\*45         |                   |
+| 1.A  |  23.02.24                 | Müller      | 6\*45         |   8*45                |
 | 2.A  | 19.01. - 02.02.24 | Sacher      | 8\*45         | 12\*45'           |
-| 3.A  | 26.01.24          | Müller      | 45            |                   |
-| 4.A  |  23.02.24                 | Hitz        | 45            |                   |
+| 3.A  | 26.01.24          | Müller      | 45            |   45                |
+| 4.A  |  23.02.24                 | Hitz        | 45            |    2*45               |
 | 5.A  | -                 | Sacher      | 2\*45         | -                 |
 | 6.A  | 26.01.24          | Sacher      | 2\*45         | 30'               |
-| 7.A  | 23.2.24                  | Hitz        | 2\*45         |                   |
+| 7.A  | 23.2.24                  | Hitz        | 2\*45         |  -                 |
 | 8.A  | 26.01.24          | Sacher      | 45            | 15'               |
-| 9.A  | 23.2.24                  | Hitz        | 45            |                   |
-| 10.A |  23.2.24                 | Hitz        | 2\*45         |                   |
-| 11.A | 23.2.24                  | Hitz        | 30            |                   |
-| 12.A |   23.2.24                | Müller      | 45            |                   |
-| 13.A |  23.2.24                 | Hitz        | 45            |                   |
-| 14.A | 19.01.24          | Sacher      | 3\*45         | 45'               |
-| 15   |  23.2.24                 | Müller      | 30            |                   |
-| 16   |   1.3.24                   | Individuell | 4\*45         |                   |
+| 8.B |   26.01.24      |    Hitz        | 45            | 45
+| 9.A  | 23.2.24                  | Hitz        | 2*45            |  -                 |
+| 10.A |  23.2.24                 | Hitz        | 30        |  25                |
+| 11.A | 23.2.24                  | Müller        | 45            |   45                |
+| 12.A |   23.2.24                | Hitz      | 45            |    45               |
+| 13.A |  23.2.24                 | Sacher        | 3*45            |     4*45              |
+| 14.A | 19.01.24          | Sacher      | 30        | 45'               |
+| 15.A   |  1.3.24                 | Individuell      | 4*45            |    4*45               |
+ 
 
 ## 5 Kontrollieren
 
